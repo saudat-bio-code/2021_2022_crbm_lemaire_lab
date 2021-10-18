@@ -1,0 +1,20 @@
+Package: BSgenome.Ciinte.JDB.Roscoff
+Title: Ciona intestinalis 2021 GCA_018327825.1_Cint_typeB-Roscoff
+Description: Full genome sequences for Cioina intestinalis 2021 GCA_018327825.1_Cint_typeB-Roscoff.
+Version: 1.5.0
+Author: The Bioconductor Dev Team
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Depends: R (>= 3.5.0), BSgenome (>= 1.60.0)
+Imports: BSgenome
+Suggests:
+License: Artistic-2.0
+organism: Ciona intestinalis Type B
+common_name: Ciint
+genome: BNKA00000000
+provider: NCBI
+release_date: Sep. 2021
+source_url: https://www.ncbi.nlm.nih.gov/assembly/GCA_018327825.1
+biocViews: AnnotationData, Genetics, BSgenome, Mustela_furoBS
+NeedsCompilation: no
+Packaged: 2021-09-23 15:34:57 UTC; salishayeva
+Built: R 4.1.0; ; 2021-09-23 15:42:51 UTC; unix
